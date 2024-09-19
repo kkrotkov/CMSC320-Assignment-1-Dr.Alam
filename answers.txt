@@ -10,3 +10,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging keeps the commits in the order they occured, and doesn't affect the branch history,
 while rebasing overwrites branch history to put each branch's commits in order
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Speed while working with databases, data visualization
