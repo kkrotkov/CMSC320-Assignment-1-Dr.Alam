@@ -5,3 +5,8 @@ Answer: yayyy version control <3
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Medicine, can track disease spread and effects over an area.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the commits in the order they occured, and doesn't affect the branch history,
+while rebasing overwrites branch history to put each branch's commits in order
